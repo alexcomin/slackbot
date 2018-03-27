@@ -2,6 +2,11 @@
 
 send message for slack
 
+```bash
+git clone https://github.com/alexcomin/slackbot.git
+npm install
+```
+
 Using in you app's
 
 ```javascript 
