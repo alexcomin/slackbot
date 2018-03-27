@@ -1,0 +1,25 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "send message for slack channel",
+  "main": "slackbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcomin/slackbot.git"
+  },
+  "keywords": [
+    "slackbot"
+  ],
+  "author": "Alex Comin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexcomin/slackbot/issues"
+  },
+  "homepage": "https://github.com/alexcomin/slackbot#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
